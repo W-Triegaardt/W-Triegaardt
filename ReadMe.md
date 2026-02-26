@@ -10,8 +10,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/W-Triegaardt?style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=1e1b4b)](https://github.com/W-Triegaardt)
-[![Profile Views](https://komarev.com/ghpvc/?username=W-Triegaardt&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/W-Triegaardt)
 
 </div>
 
