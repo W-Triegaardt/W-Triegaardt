@@ -21,7 +21,7 @@ class WihanTriegaardt:
     def __init__(self):
         self.name       = "Wihan Triegaardt"
         self.degree     = "BSc Information Technology"
-        self.languages  = ["Python", "C++", "C#", "Java", "Lua"]
+        self.languages  = ["Python", "C++", "C#", "Java"]
         self.interests  = ["Cybersecurity", "Software Dev", "Problem Solving"]
         self.currently  = "Learning everything I can 📚"
         self.goal       = "Future in Cybersecurity 🔐🚀"
