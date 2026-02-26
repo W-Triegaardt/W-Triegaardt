@@ -71,8 +71,6 @@ linkedin - Wihan Triegaardt
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=W-Triegaardt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
