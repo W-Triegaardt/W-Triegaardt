@@ -16,12 +16,12 @@
 ## 👾 About Me
 
 ```python
-class WTraiegaardt:
+class WTriegaardt:
     def __init__(self):
-        self.name       = "W. Triegaardt"
+        self.name       = "Wihan Triegaardt"
         self.degree     = "BSc Information Technology"
-        self.languages  = ["Python", "C++", "C#", "Java", "Lua"]
-        self.interests  = ["Software Dev", "Game Dev", "Problem Solving"]
+        self.languages  = ["Python", "C++", "C#", "Java"]
+        self.interests  = ["Software Dev", "Cybersecurity", "Problem Solving"]
         self.currently  = "Learning everything I can 📚"
         self.goal       = "Build things that matter 🚀"
 
