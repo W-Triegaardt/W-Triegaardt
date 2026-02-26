@@ -65,10 +65,6 @@ linkedin - Wihan Triegaardt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=W-Triegaardt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-Triegaardt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=W-Triegaardt&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="600"/>
