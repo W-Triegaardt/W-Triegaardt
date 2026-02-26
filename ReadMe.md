@@ -10,7 +10,6 @@
 
 <br/>
 
-
 </div>
 
 ---
@@ -52,10 +51,10 @@ me.say_hi()
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Socials
-discord - userid - 419846705975001099
-instagram - w_trieg
-linkedin - Wihan Triegaardt
+### 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/419846705975001099)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w_trieg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wihan-triegaardt)
 
 </div>
 
@@ -65,12 +64,11 @@ linkedin - Wihan Triegaardt
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=W-Triegaardt&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="600"/>
 
 <br/><br/>
-
 
 </div>
 
@@ -79,11 +77,7 @@ linkedin - Wihan Triegaardt
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W-Triegaardt/W-Triegaardt/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W-Triegaardt/W-Triegaardt/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/W-Triegaardt/W-Triegaardt/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
