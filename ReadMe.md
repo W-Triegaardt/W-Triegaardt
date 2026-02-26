@@ -23,7 +23,7 @@ class WTriegaardt:
         self.languages  = ["Python", "C++", "C#", "Java"]
         self.interests  = ["Software Dev", "Cybersecurity", "Problem Solving"]
         self.currently  = "Learning everything I can 📚"
-        self.goal       = "Build things that matter 🚀"
+        self.goal       = "Future in Cybersecurity! 🚀"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome.")
