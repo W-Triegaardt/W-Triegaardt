@@ -1,14 +1,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=W.%20Triegaardt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=BSc%20IT%20Student%20%7C%20Code%20Craftsman&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Wihan%20Triegaardt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=BSc%20IT%20Student%20%7C%20Future%20Cybersecurity%20Pro&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%BE;Building+cool+things+one+commit+at+a+time;Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+Lua;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%BE;BSc+IT+Student+%7C+Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+Lua;Always+learning%2C+always+shipping+%F0%9F%9A%80;Breaking+things+to+understand+them+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 <br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/W-Triegaardt?style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=1e1b4b)](https://github.com/W-Triegaardt)
+[![Profile Views](https://komarev.com/ghpvc/?username=W-Triegaardt&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/W-Triegaardt)
+
 </div>
 
 ---
@@ -16,19 +20,19 @@
 ## 👾 About Me
 
 ```python
-class WTriegaardt:
+class WihanTriegaardt:
     def __init__(self):
         self.name       = "Wihan Triegaardt"
         self.degree     = "BSc Information Technology"
-        self.languages  = ["Python", "C++", "C#", "Java"]
-        self.interests  = ["Software Dev", "Cybersecurity", "Problem Solving"]
+        self.languages  = ["Python", "C++", "C#", "Java", "Lua"]
+        self.interests  = ["Cybersecurity", "Software Dev", "Problem Solving"]
         self.currently  = "Learning everything I can 📚"
-        self.goal       = "Future in Cybersecurity! 🚀"
+        self.goal       = "Future in Cybersecurity 🔐🚀"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome.")
 
-me = WTraiegaardt()
+me = WihanTriegaardt()
 me.say_hi()
 ```
 
@@ -45,10 +49,17 @@ me.say_hi()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Tools 
-Adobe photoshop
-Canva
-Figma
+### Design Tools
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
@@ -91,6 +102,6 @@ Figma
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"The quieter you become, the more you are able to hear."* — Kali Linux
 
 </div>
